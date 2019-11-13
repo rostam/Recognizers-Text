@@ -1,0 +1,106 @@
+[
+  {
+    "Input": "حتما!",
+    "Results": [
+      {
+        "Text": "حتما",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": true,
+          "score": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Input": "بیخیال نه",
+    "Results": [
+      {
+        "Text": "نه",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": false,
+          "score": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Input": "اوکی من انجامش می دم",
+    "Results": [
+      {
+        "Text": "اوکی",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": true,
+          "score": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "Input": "نخیر. اینجوری نمی شه",
+    "Results": [
+      {
+        "Text": "نخیر",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": false,
+          "score": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Input": "باشه قول می دم",
+    "Results": [
+      {
+        "Text": "باشه",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": true,
+          "score": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "Input": "گفتم نمی شه اوکی؟",
+    "Results": [
+      {
+        "Text": "نمی شه",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": false,
+          "score": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Input": "آره. منم موافقم",
+    "Results": [
+      {
+        "Text": "آره",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": true,
+          "score": 0.55
+        }
+      }
+    ]
+  },
+  {
+    "Input": "نه وقت دکترم فردا نیست",
+    "Results": [
+      {
+        "Text": "نه",
+        "TypeName": "boolean",
+        "Resolution": {
+          "value": false,
+          "score": 1.0
+        }
+      }
+    ]
+  }
+]
